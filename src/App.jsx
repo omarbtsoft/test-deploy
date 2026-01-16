@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1 className="app-title">📊 Encuesta en Tiempo Real</h1>
+      <h1 className="app-title">📊 Encuesta en Tiempo Real v1</h1>
       <div className="polls-wrapper">
         {pollIds.map((id) => (
           <Poll key={id} pollId={id} />
