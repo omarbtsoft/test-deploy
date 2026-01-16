@@ -1,0 +1,85 @@
+{
+  "polls": {
+    "poll1": {
+      "options": {
+        "a": {
+          "text": "Python",
+          "votes": 5
+        },
+        "b": {
+          "text": "JavaScript",
+          "votes": 3
+        },
+        "c": {
+          "text": "Java",
+          "votes": 2
+        }
+      },
+      "question": "¿Cuál es tu lenguaje de programación favorito?"
+    },
+    "poll2": {
+      "options": {
+        "a": {
+          "text": "React",
+          "votes": 5
+        },
+        "b": {
+          "text": "Vue",
+          "votes": 2
+        },
+        "c": {
+          "text": "Angular",
+          "votes": 1
+        }
+      },
+      "question": "¿Qué framework de frontend prefieres?"
+    },
+    "poll3": {
+      "options": {
+        "a": {
+          "text": "GitHub",
+          "votes": 4
+        },
+        "b": {
+          "text": "GitLab",
+          "votes": 1
+        },
+        "c": {
+          "text": "Bitbucket",
+          "votes": 5
+        }
+      },
+      "question": "¿Qué plataforma de control de versiones utilizas más?"
+    },
+    "poll4": {
+      "options": {
+        "a": {
+          "text": "SQL",
+          "votes": 3
+        },
+        "b": {
+          "text": "NoSQL",
+          "votes": 2
+        }
+      },
+      "question": "¿Qué tipo de base de datos prefieres usar?"
+    },
+    "poll5": {
+      "options": {
+        "a": {
+          "text": "Linux",
+          "votes": 3
+        },
+        "b": {
+          "text": "Windows",
+          "votes": 2
+        },
+        "c": {
+          "text": "MacOS",
+          "votes": 1
+        }
+      },
+      "question": "¿Qué sistema operativo prefieres para programar?"
+    }
+  }
+}
